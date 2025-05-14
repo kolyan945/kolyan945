@@ -52,3 +52,13 @@
 
 - [Google Trends](https://trends.google.com)
 - Запити: “українське мистецтво”, “український живопис”, “Примаченко”, “Пархоменко”
+
+# Інтернет-архів українського мистецтва
+
+## Інтерес до запиту "Українське мистецтво" в Google Trends
+
+![Тренд українського мистецтва](ukrainian-art-trend.png)
+
+[Дивитись у Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=UA&q=Українське%20мистецтво)
+
+
